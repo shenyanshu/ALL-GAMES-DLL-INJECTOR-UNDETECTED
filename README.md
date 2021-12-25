@@ -1,7 +1,7 @@
-# Injector
-A DLL injector compatible with 64-bit Windows 7/8/10 with features to aid development of DLL-based game mods.
+# ALL GAMES DLL INJECTOR
+DLL INJECTOR WORK
+ALL GAMES FOR HACK
 
-![Injector Window](Screenshots/Injector.png)
 
 ## Background
 Injector was written in 2011 after I couldn't find a good DLL injector with the features I wanted that was compatible with a 64-bit install of Windows 7. Injector works well as a general-purpose DLL injector but also contains additional features that are particularly useful when injecting DLLs into games. Injector is written in C using the Win32 API for the UI.
