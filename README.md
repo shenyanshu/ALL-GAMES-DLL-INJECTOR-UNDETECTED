@@ -6,6 +6,8 @@ ALL GAMES FOR HACK
 ## Background
 Injector was written in 2011 after I couldn't find a good DLL injector with the features I wanted that was compatible with a 64-bit install of Windows 7. Injector works well as a general-purpose DLL injector but also contains additional features that are particularly useful when injecting DLLs into games. Injector is written in C using the Win32 API for the UI.
 
+https://github.com/wkhughes/Injector/raw/master/Screenshots/Injector.png
+
 ## Features
 ### Find Code Changes
 Injector lets you record a snapshot of one or more modules of the target process and display any code changes made. If you are injecting a DLL that patches the target process code this lets you record the code, inject the DLL and then display the changes the DLL made.
